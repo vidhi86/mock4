@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "name": "singh",
+      "email": "singh@gmail.com",
+      "password": "56789",
+      "Doctor": true,
+      "id": 1
+    },
+    {
+      "name": "vidhi",
+      "email": "vidhi@gmail.com",
+      "password": "12345",
+      "Doctor": true,
+      "id": 2
+    },
+    {
+      "name": "aryan",
+      "email": "aryan@gamila.com",
+      "password": "00000",
+      "Doctor": false,
+      "id": 3
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "11111",
+      "Doctor": false,
+      "id": 4
+    },
+    {
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "22222",
+      "Doctor": true,
+      "id": 5
+    }
+  ],
+  "appointment": [
+    {
+      "name": "vidhi",
+      "image": "https://img.freepik.com/free-photo/beautiful-young-female-doctor-looking-camera-office_1301-7807.jpg?w=2000",
+      "specialization": "Cardiologist",
+      "experience": "2",
+      "location": "jaipur",
+      "date": "12/4/23",
+      "slots": "7",
+      "fee": "300",
+      "id": 1
+    },
+    {
+      "name": "ajay",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg?crop=0.66698xw:1xh;center,top&resize=1200:*",
+      "specialization": "Cardiologist",
+      "experience": "10",
+      "location": "jaipur",
+      "date": "12/4/23",
+      "slots": "2",
+      "fee": "500",
+      "id": 2
+    }
+  ]
+}
